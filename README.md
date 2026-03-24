@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chuck Nguyen</h1>
 <h3 align="center">A full-stack software engineer with 2+ years experience in tech</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chucknguyen" alt="chucknguyen" /></a> </p>
-
 - 🔭 I’m currently working on [Chuckun Specials Ecommerce Store](https://github.com/chucknguyen/chuck-nguyen-capstone)
 - You can checkout the Backend repo for this project here: (https://github.com/chucknguyen/chuck-nguyen-capstone-api.git)
 
